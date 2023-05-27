@@ -1,0 +1,7 @@
+2a60927148abd1d33b818b535e306557
+::res://::1685199834
+icon.svg::CompressedTexture2D::1796788921046298793::1678655332::1678655337::1::::<><>::
+tilesetimage.png::CompressedTexture2D::2379170703848921976::1678655477::1678655479::1::::<><>::
+tile_map.gd::GDScript::-1::1678655740::0::1::::<>TileMap<>::
+tile_map.tscn::PackedScene::713199290937762085::1678655772::0::1::::<><>::uid://0um361kvotgr<>uid://85qugskgs8nk<>res://tile_map.gd
+world.tscn::PackedScene::2337845983831254664::1678655772::0::1::::<><>::uid://kfqj2cl3l0y0
